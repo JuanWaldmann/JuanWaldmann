@@ -22,7 +22,7 @@ working directly with databases (Postgres) — the skills that sit next to the s
 solutions work I've already done, going deeper into how these systems are actually built.
 
 ## Currently working on
-🔧 [[Webhook Receiver](link)](https://github.com/JuanWaldmann/webhook-receiver) — Express + Postgres webhook receiver with HMAC signature
+🔧 [[Webhook Receiver]](https://github.com/JuanWaldmann/webhook-receiver) — Express + Postgres webhook receiver with HMAC signature
 verification, idempotent event storage, and a retry/backoff worker.
 
 ## Reach out
