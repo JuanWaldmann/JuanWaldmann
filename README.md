@@ -14,12 +14,13 @@ connect reliably to the third-party services they depend on.
 - **Network Administrator** — Managed routers, switches, load balancers, DNS, and IP addressing,
   the networking fundamentals that underpin everything above.
 
-## What I'm building now
+## How I approach these projects
 
-I'm developing hands-on, from-scratch experience with the engineering side of integrations:
-authentication (HMAC, OAuth), webhook delivery and idempotency, retry/backoff logic, and
-working directly with databases (Postgres) — the skills that sit next to the support and
-solutions work I've already done, going deeper into how these systems are actually built.
+I build everything from scratch, without AI-generated code, writing, debugging, and
+understanding every function myself, using AI strictly as a technical reviewer and
+documentation guide rather than a code generator. Each project is designed around a
+real architecture decision first (on paper, before any code), broken into small tasks,
+and built incrementally, the same discipline I'd bring to a production integration.
 
 ## Currently working on
 🔧 [[Webhook Receiver]](https://github.com/JuanWaldmann/webhook-receiver) — Express + Postgres webhook receiver with HMAC signature
