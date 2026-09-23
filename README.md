@@ -25,6 +25,7 @@ and built incrementally, the same discipline I'd bring to a production integrati
 ## Currently working on
 🔧 [[Webhook Receiver]](https://github.com/JuanWaldmann/webhook-receiver) — Express + Postgres webhook receiver with HMAC signature
 verification, idempotent event storage, and a retry/backoff worker.
+🔧 [API-Dashboard]](https://github.com/JuanWaldmann/api-dashboard) — A backend service demonstrating clean, resilient API consumption — built with Express and TypeScript, integrating third-party REST APIs (GitHub now, OpenWeather planned) behind a consistent internal interface.
 
 ## Reach out
 https://www.linkedin.com/in/juan-ignacio-waldmann/ - juan.waldmann@gmail.com
